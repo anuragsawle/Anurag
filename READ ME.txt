@@ -1,0 +1,32 @@
+	    DOCUMENTATION OF NOTES SHARING
+
+Problem statement:-NOTES SHARING FREE AND OPEN PLATFORM
+
+ 
+Welcome to NOTES SHARING platform , here we deals with the process of sharing notes 
+and user can even view or edit the notes as per their needs.It is an open source 
+platform so one can easily communicate with it and it even doesn't require ID 
+passwords at all.It is easy to access and open for everyone.
+
+
+SYSTEM REQUIREMENTS
+
+Make sure that your system needs the following requirements:
+
+1.DOS BOX
+2.32-BIT/64-BIT PROCESSOR
+3.MINIMUM 250 MB OF RAM
+
+CONCEPTS
+
+Here we've used the file handling concept through the c++ language.
+
+WORKING
+
+Basically,in our program users are having options of reading and writing the notes.
+If someone wanna read the notes then the user can sipmly chose the option of reading
+and he will get the notes according to his needs ex...like in our program we have 
+provided the notes of different-different programming languages such as java,python,
+C and C++ . So, suppose if he is looking for python notes then he will get those notes 
+through our program and similarly if the user wanna rewrite the notes then he can do so
+in the same way by choosing the writing option ! 
