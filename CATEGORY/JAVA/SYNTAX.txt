@@ -1,0 +1,9 @@
+In the previous chapter, we created a Java file called MyClass.java, and we used the following code to print "Hello World" to the screen:
+
+MyClass.java
+
+public class MyClass {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
